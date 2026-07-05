@@ -26,25 +26,31 @@ Passionate about developing modern web applications with Python & Django and cre
 
 🚀 Featured Projects
 
-<a href="https://face-detection-attendance-woad.vercel.app/">🎯 Face Recognition Attendance System</a>
+🎯 Face Recognition Attendance System
 - Python
 - Django
 - OpenCV
 - SQLite
+<a href="https://face-detection-attendance-woad.vercel.app/home/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
+<a href="https://github.com/Milan07xt/SEM-06" class="btn-link"><i class="fab fa-github"></i> Code</a>
+                
 
-<a href="https://django-gym-management-system-websit-one.vercel.app/">🏋️ Gym Management System</a>
+🏋️ Gym Management System
 - Python
 - Django
 - HTML
 - CSS
+ <a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
+<a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website" class="btn-link"><i class="fab fa-github"></i> Code</a>
 
-<a href="https://hotel-website-project-kappa.vercel.app/">🏨 Hotel Management System</a>
+🏨 Hotel Management System</a>
 - Django
 - SQLite
 -HTML
 -CSS
 
----
+<a href="https://hotel-website-project-kappa.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
+<a href="https://github.com/Milan07xt/Hotel-Website-Project" class="btn-link"><i class="fab fa-github"></i> Code</a>
 
 💻 Tech Stack
 
