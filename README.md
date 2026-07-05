@@ -16,7 +16,7 @@ Passionate about developing modern web applications with Python & Django and cre
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🎓 B.Sc. Information Technology Graduate
 - 💻 Passionate about Python, Django & Full Stack Development
@@ -25,30 +25,29 @@ Passionate about developing modern web applications with Python & Django and cre
 - 📍 Gujarat, India
 - 🚀 Looking for Python Developer opportunities
 
----
+🚀 Featured Projects
 
-## 🚀 Featured Projects
-
-### 🎯 Face Recognition Attendance System
+🎯 Face Recognition Attendance System
 - Python
 - Django
 - OpenCV
 - SQLite
 
-### 🏋️ Gym Management System
+🏋️ Gym Management System
 - Python
 - Django
 - HTML
 - CSS
 
-### 🏨 Hotel Management System
+🏨 Hotel Management System
 - Django
 - SQLite
-- Bootstrap
+-HTML
+-CSS
 
 ---
 
-## 💻 Tech Stack
+💻 Tech Stack
 
 <h2 align="center">💻 Languages & Tools</h2>
 
@@ -66,25 +65,21 @@ Passionate about developing modern web applications with Python & Django and cre
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 ---
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Milan07xt&theme=github-dark&hide_border=true" />
 </p>
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Milan07xt&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
 
-## 📈 Contribution Graph
+📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milan07xt&theme=github-compact" />
 </p>
 ---
 
-## 🌐 Connect with Me
+🌐 Connect with Me
 
 <p align="center">
 
@@ -104,7 +99,7 @@ Passionate about developing modern web applications with Python & Django and cre
 
 ---
 
-## 🎯 Current Goal
+🎯 Current Goal
 
 ✔ Improve Python & Django Skills
 
