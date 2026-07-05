@@ -49,8 +49,8 @@ Passionate about developing modern web applications with Python & Django and cre
 🏨 Hotel Management System</a>
 - Django
 - SQLite
--HTML
--CSS
+- HTML
+- CSS
 <br>
 - <a href="https://hotel-website-project-kappa.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> <span>
 <a href="https://github.com/Milan07xt/Hotel-Website-Project" class="btn-link"><i class="fab fa-github"></i> Code</a>
