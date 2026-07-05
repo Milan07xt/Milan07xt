@@ -64,7 +64,7 @@ Passionate about developing modern web applications with Python & Django and cre
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
----
+
 🔥 GitHub Streak
 
 <p align="center">
