@@ -22,5 +22,5 @@
 
 📫 Contact
 Email: rathodmilan216@gmail.com
-LinkedIn: linkedin.com/in/milan-rathod07/?isSelfProfile=true
+LinkedIn: https://www.linkedin.com/in/milan-rathod07/?isSelfProfile=true
 Portfolio: https://milan-portfolio-website.vercel.app/
