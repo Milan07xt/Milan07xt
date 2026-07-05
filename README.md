@@ -39,7 +39,13 @@ Passionate about developing modern web applications with Python & Django and cre
 <img src="https://img.shields.io/badge/LinkedIn-Milan%20Rathod-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p></p>br>
+</p></p>
+
+
+
+
+
+
 
 
 🚀 Featured Projects
