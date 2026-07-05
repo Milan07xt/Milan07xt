@@ -26,19 +26,19 @@ Passionate about developing modern web applications with Python & Django and cre
 
 🚀 Featured Projects
 
-🎯 Face Recognition Attendance System
+<a href=" https://face-detection-attendance-woad.vercel.app/">🎯 Face Recognition Attendance System</a>
 - Python
 - Django
 - OpenCV
 - SQLite
 
-🏋️ Gym Management System
+<a href="https://django-gym-management-system-websit-one.vercel.app/">🏋️ Gym Management System</a>
 - Python
 - Django
 - HTML
 - CSS
 
-🏨 Hotel Management System
+<a href="https://hotel-website-project-kappa.vercel.app/">🏨 Hotel Management System</a>
 - Django
 - SQLite
 -HTML
