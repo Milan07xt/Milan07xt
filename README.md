@@ -24,9 +24,7 @@ Passionate about developing modern web applications with Python & Django and cre
 - 📍 Gujarat, India
 - 🚀 Looking for Python Developer opportunities
 
-- <p align="center">
-
-<a href="https://milan-portfolio-website.vercel.app/" target="_blank">
+- <p align="center"><a href="https://milan-portfolio-website.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-39d353?style=for-the-badge"/>
 </a>
 
