@@ -50,12 +50,21 @@ Passionate about developing modern web applications with Python & Django and cre
 
 ## 💻 Tech Stack
 
+<h2 align="center">💻 Languages & Tools</h2>
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,bootstrap,tailwind,mysql,sqlite,git,github,vscode,figma"/>
-
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
