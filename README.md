@@ -26,7 +26,7 @@ Passionate about developing modern web applications with Python & Django and cre
 
 🚀 Featured Projects
 
-<a href=" https://face-detection-attendance-woad.vercel.app/">🎯 Face Recognition Attendance System</a>
+<a href="https://face-detection-attendance-woad.vercel.app/">🎯 Face Recognition Attendance System</a>
 - Python
 - Django
 - OpenCV
