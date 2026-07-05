@@ -24,6 +24,22 @@ Passionate about developing modern web applications with Python & Django and cre
 - 📍 Gujarat, India
 - 🚀 Looking for Python Developer opportunities
 
+- <p align="center">
+
+<a href="https://milan-portfolio-website.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-39d353?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Milan07xt">
+<img src="https://img.shields.io/badge/GitHub-Milan07xt-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/milan-rathod07">
+<img src="https://img.shields.io/badge/LinkedIn-Milan%20Rathod-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
 🚀 Featured Projects
 
 🎯 Face Recognition Attendance System
@@ -41,8 +57,7 @@ Passionate about developing modern web applications with Python & Django and cre
 - Django
 - HTML
 - CSS
-- <br>
-<a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> <span>
+- <a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> <span>
 <a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website" class="btn-link"><i class="fab fa-github"></i> Code</a>
 
 🏨 Hotel Management System</a>
