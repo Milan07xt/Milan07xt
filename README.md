@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Milan Rathod</h1>
 
 <h3 align="center">
-Python Developer | Django Developer | Full Stack Developer | UI/UX Designer
+Python Developer | Django Developer | Backend Developer
 </h3>
 
 <p align="center">
@@ -88,11 +88,11 @@ Passionate about developing modern web applications with Python & Django and cre
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin-profile">
+<a href="https://www.linkedin.com/in/milan-rathod07/?isSelfProfile=true">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:rathodmilan216@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
