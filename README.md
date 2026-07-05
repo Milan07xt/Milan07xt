@@ -79,14 +79,12 @@ Passionate about developing modern web applications with Python & Django and cre
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Milan07xt&theme=github-dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Milan07xt&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan07xt&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 ## 🌐 Connect with Me
