@@ -24,8 +24,8 @@ Passionate about developing modern web applications with Python & Django and cre
 - 📍 Gujarat, India
 - 🚀 Looking for Python Developer opportunities
 
-
-<p align="center">
+<br>
+<p>
 
 <a href="https://milan-portfolio-website.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-39d353?style=for-the-badge"/>
@@ -39,7 +39,8 @@ Passionate about developing modern web applications with Python & Django and cre
 <img src="https://img.shields.io/badge/LinkedIn-Milan%20Rathod-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
+</p></p>br>
+
 
 🚀 Featured Projects
 
@@ -49,8 +50,7 @@ Passionate about developing modern web applications with Python & Django and cre
 - OpenCV
 - SQLite
 - <a href="https://face-detection-attendance-woad.vercel.app/home/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
-<span>
-<a href="https://github.com/Milan07xt/SEM-06" class="btn-link"><i class="fab fa-github"></i> Code</a>
+<span><a href="https://github.com/Milan07xt/SEM-06" class="btn-link"><i class="fab fa-github"></i> Code</a>
                 
 
 🏋️ Gym Management System
@@ -58,8 +58,7 @@ Passionate about developing modern web applications with Python & Django and cre
 - Django
 - HTML
 - CSS
-- <a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> <span>
-<a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website" class="btn-link"><i class="fab fa-github"></i> Code</a>
+- <a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> <span><a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website" class="btn-link"><i class="fab fa-github"></i> Code</a>
 
 🏨 Hotel Management System</a>
 - Django
