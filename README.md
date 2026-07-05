@@ -14,7 +14,7 @@ Passionate about developing modern web applications with Python & Django and cre
 <img src="https://komarev.com/ghpvc/?username=Milan07xt&label=Profile%20Views&color=39d353&style=flat" />
 </p>
 
----
+
 
 👨‍💻 About Me
 
@@ -32,7 +32,7 @@ Passionate about developing modern web applications with Python & Django and cre
 - OpenCV
 - SQLite
 <br>
-<a href="https://face-detection-attendance-woad.vercel.app/home/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
+- <a href="https://face-detection-attendance-woad.vercel.app/home/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
 <span>
 <a href="https://github.com/Milan07xt/SEM-06" class="btn-link"><i class="fab fa-github"></i> Code</a>
                 
@@ -43,7 +43,7 @@ Passionate about developing modern web applications with Python & Django and cre
 - HTML
 - CSS
   <br>
- <a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> <span>
+ - <a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> <span>
 <a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website" class="btn-link"><i class="fab fa-github"></i> Code</a>
 
 🏨 Hotel Management System</a>
@@ -52,7 +52,7 @@ Passionate about developing modern web applications with Python & Django and cre
 -HTML
 -CSS
 <br>
-<a href="https://hotel-website-project-kappa.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> <span>
+- <a href="https://hotel-website-project-kappa.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> <span>
 <a href="https://github.com/Milan07xt/Hotel-Website-Project" class="btn-link"><i class="fab fa-github"></i> Code</a>
 
 💻 Tech Stack
@@ -84,7 +84,7 @@ Passionate about developing modern web applications with Python & Django and cre
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milan07xt&theme=github-compact" />
 </p>
----
+
 
 🌐 Connect with Me
 
@@ -104,7 +104,7 @@ Passionate about developing modern web applications with Python & Django and cre
 
 </p>
 
----
+
 
 🎯 Current Goal
 
@@ -116,7 +116,6 @@ Passionate about developing modern web applications with Python & Django and cre
 
 ✔ Get a Python Developer Job
 
----
 
 > **"Code. Learn. Build. Grow."**
 
