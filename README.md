@@ -1,6 +1,6 @@
 # Hi 👋 I'm Milan Rathod
 
-## Python Backend Developer | Django Developer | UI/UX Designer
+## Python Backend Developer | Django Developer | Backend Developer 
 
 🎓 B.Sc. Information Technology Graduate
 📍 Gujarat, India
@@ -21,6 +21,6 @@
 - Hotel Management System
 
 📫 Contact
-Email: your@email.com
-LinkedIn: https://linkedin.com/in/...
-Portfolio: https://...
+Email: rathodmilan216@gmail.com
+LinkedIn: linkedin.com/in/milan-rathod07/?isSelfProfile=true
+Portfolio: https://milan-portfolio-website.vercel.app/
