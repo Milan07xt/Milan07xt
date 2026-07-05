@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Milan Rathod
 
-<!--
-**Milan07xt/Milan07xt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Backend Developer | Django Developer | UI/UX Designer
 
-Here are some ideas to get you started:
+🎓 B.Sc. Information Technology Graduate
+📍 Gujarat, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+- Python
+- Django
+- Django REST Framework
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git
+
+🚀 Projects
+- Face Recognition Attendance System
+- Gym Management System
+- Hotel Management System
+
+📫 Contact
+Email: your@email.com
+LinkedIn: https://linkedin.com/in/...
+Portfolio: https://...
