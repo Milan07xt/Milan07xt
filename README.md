@@ -20,7 +20,6 @@ Passionate about developing modern web applications with Python & Django and cre
 
 - 🎓 B.Sc. Information Technology Graduate
 - 💻 Passionate about Python, Django & Full Stack Development
-- 🎨 UI/UX Designer with Figma
 - 🌱 Currently learning Django REST Framework & React
 - 📍 Gujarat, India
 - 🚀 Looking for Python Developer opportunities
@@ -62,8 +61,7 @@ Passionate about developing modern web applications with Python & Django and cre
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+ </p>
 
 🔥 GitHub Streak
 
