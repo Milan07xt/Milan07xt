@@ -31,7 +31,9 @@ Passionate about developing modern web applications with Python & Django and cre
 - Django
 - OpenCV
 - SQLite
+<br>
 <a href="https://face-detection-attendance-woad.vercel.app/home/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
+<span>
 <a href="https://github.com/Milan07xt/SEM-06" class="btn-link"><i class="fab fa-github"></i> Code</a>
                 
 
@@ -40,7 +42,8 @@ Passionate about developing modern web applications with Python & Django and cre
 - Django
 - HTML
 - CSS
- <a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
+  <br>
+ <a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> <span>
 <a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website" class="btn-link"><i class="fab fa-github"></i> Code</a>
 
 🏨 Hotel Management System</a>
@@ -48,8 +51,8 @@ Passionate about developing modern web applications with Python & Django and cre
 - SQLite
 -HTML
 -CSS
-
-<a href="https://hotel-website-project-kappa.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
+<br>
+<a href="https://hotel-website-project-kappa.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> <span>
 <a href="https://github.com/Milan07xt/Hotel-Website-Project" class="btn-link"><i class="fab fa-github"></i> Code</a>
 
 💻 Tech Stack
