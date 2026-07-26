@@ -51,6 +51,7 @@ Passionate about developing modern web applications with Python & Django and cre
 🚀 Featured Projects
 
 🎯 Face Recognition Attendance System
+
 - Python
 - Django
 - OpenCV
@@ -60,6 +61,7 @@ Passionate about developing modern web applications with Python & Django and cre
                 
 
 🏋️ Gym Management System
+
 - Python
 - Django
 - HTML
@@ -67,7 +69,7 @@ Passionate about developing modern web applications with Python & Django and cre
 - <a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> <span><a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website" class="btn-link"><i class="fab fa-github"></i> Code</a>
 
 🏨 Hotel Management System</a>
-- Django
+
 - SQLite
 - HTML
 - CSS
