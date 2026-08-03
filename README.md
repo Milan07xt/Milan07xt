@@ -1,390 +1,463 @@
-# 🎨 3D Animation Guide for Your GitHub Profile
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=120&section=header&animation=fadeIn"/>
 
-## 📦 What You've Got
+<div style="perspective: 1000px; animation: fadeInDown 1s ease;">
+  <h1 align="center" style="transform: rotateX(0deg) rotateY(0deg); animation: float 3s ease-in-out infinite; letter-spacing: 2px;">
+    Hi 👋, I'm Milan Rathod
+  </h1>
+</div>
 
-I've created **two powerful 3D experiences** for your portfolio:
+<div style="perspective: 1200px;">
+  <h3 align="center" style="
+    background: linear-gradient(135deg, #39d353 0%, #1f6feb 50%, #39d353 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: slideInRight 0.8s ease 0.2s backwards, gradient-shift 4s ease infinite;
+    font-size: 1.3em;
+    font-weight: 600;
+  ">
+    Python Developer | Django Developer | Backend Developer
+  </h3>
+</div>
 
----
+<p align="center" style="animation: fadeInUp 0.8s ease 0.4s backwards; font-size: 16px; max-width: 600px; margin: 20px auto;">
+  Passionate about developing modern web applications with <strong>Python & Django</strong> and creating clean, user-friendly <strong>UI/UX designs</strong>.
+</p>
 
-## 1. **3D GitHub Profile README** (`animated-3d-github-profile.md`)
-
-### ✨ Features
-
-#### **3D Flip Cards** (Project Showcase)
-- **Hover Effect**: Each project card does a 360° flip + 3D rotation on hover
-- **Staggered Entrance**: Cards animate in with depth perspective
-- **Color Gradients**: Unique gradient for each project
-- **Interactive Links**: Live demo and code links inside 3D cards
-
-```
-Mouse Over Project Card:
-    Rotate Y: 360° spin
-    Rotate X: 5° tilt  
-    Scale: 1.05x zoom
-    Shadow: Dynamic glow effect
-```
-
-#### **Floating Title**
-- Continuous floating animation (up/down motion)
-- Subtle 3D rotation effect
-- Text shadow for depth
-
-#### **Rotating Tech Stack Icons**
-- Each icon rotates in 3D space
-- **Staggered timing** (each icon starts at different time)
-- Hover effect: Scale up + brightness boost
-- Creates wave-like animation pattern
-
-#### **Gradient Text Animation**
-- Subtitle has animated gradient shift
-- Color transition every 4 seconds
-- 3D rotation on entrance
-
-#### **3D Perspective Transforms**
-- Used `perspective: 1200px` for depth
-- `transform-style: preserve-3d` for true 3D
-- `backface-visibility: hidden` for realism
+<p align="center" style="animation: fadeInUp 0.8s ease 0.6s backwards;">
+  <img src="https://komarev.com/ghpvc/?username=Milan07xt&label=Profile%20Views&color=39d353&style=flat" style="filter: drop-shadow(0 0 10px rgba(57, 211, 83, 0.3));" />
+</p>
 
 ---
 
-## 2. **Interactive 3D Showcase** (`3d-interactive-showcase.html`)
+## 👨‍💻 About Me
 
-### 🚀 Three.js Features
+<div style="
+  animation: fadeInLeft 0.8s ease 0.8s backwards;
+  border-left: 4px solid #39d353;
+  padding-left: 20px;
+  margin: 20px 0;
+  line-height: 2;
+">
 
-#### **Main Elements**
+- 🎓 **B.Sc. Information Technology Graduate** (CGPA: 6.35)
+- 💻 Passionate about **Python, Django & Full Stack Development**
+- 🌱 Currently mastering **Django REST Framework & React**
+- 📍 **Gujarat, India** (Open to relocation)
+- 🚀 **Actively seeking Python Developer opportunities**
 
-1. **Central Rotating Cube**
-   - Responds to mouse movement
-   - Green color (#39d353) with glow effect
-   - Phong material for realistic lighting
-
-2. **Wireframe Counter-Rotating Cube**
-   - Blue color (#1f6feb)
-   - Rotates opposite direction to main cube
-   - Creates visual tension effect
-
-3. **Particle System**
-   - 100 particles floating in space
-   - Green glow particles
-   - Continuous downward motion
-   - Auto-resets position
-
-4. **Orbiting Spheres (6 total)**
-   - Each sphere orbits at different speed
-   - Rainbow color spectrum
-   - Unique orbit paths (elliptical)
-   - Glow effects
-
-5. **Animated Torus**
-   - Blue donut shape
-   - Rotates on multiple axes
-   - Creates depth perception
-
-#### **Lighting Setup**
-```javascript
-- Ambient Light: 60% brightness (white)
-- Point Light 1: 100% brightness (green) - top right
-- Point Light 2: 80% brightness (blue) - bottom left
-→ Creates realistic 3D shadows and highlights
-```
-
-#### **Interactive Features**
-
-**Mouse Interaction:**
-- Move mouse to rotate cubes
-- Smooth lerp interpolation for natural movement
-- X-axis controls vertical rotation
-- Y-axis controls horizontal rotation
-
-**Touch Support:**
-- Full touch gesture support
-- Responsive on mobile devices
-- Same rotation controls
-
-**Click Interaction:**
-- Click any tech tag to trigger pulse effect
-- Cube scales 1.1x → 1x (expand/contract)
-- Provides tactile feedback
+</div>
 
 ---
 
-## 📋 How to Implement
+## 🔗 Social Links
 
-### **Step 1: Update Your GitHub README**
-
-1. Go to your GitHub profile
-2. Edit your README.md
-3. **Copy entire content** from `animated-3d-github-profile.md`
-4. **Paste** into your README
-5. **Commit** the changes
-
-✅ Animations activate immediately on GitHub!
-
-### **Step 2: Deploy 3D Showcase (Optional but Recommended)**
-
-#### **Option A: Vercel (Easiest)**
-1. Create account at [vercel.com](https://vercel.com)
-2. Create new project → Import Git Repository (your GitHub)
-3. Upload `3d-interactive-showcase.html` to root
-4. Deploy
-5. Get your live URL (e.g., `your-name.vercel.app/3d-interactive-showcase.html`)
-
-#### **Option B: GitHub Pages**
-1. Create new branch: `gh-pages`
-2. Add `3d-interactive-showcase.html` to this branch
-3. Go to Settings → Pages → Select `gh-pages` branch
-4. Get your URL: `github.com/Milan07xt/3d-showcase` (or similar)
-
-#### **Option C: Netlify**
-1. Create account at [netlify.com](https://netlify.com)
-2. Drag & drop `3d-interactive-showcase.html`
-3. Get instant live URL
-
-### **Step 3: Link 3D Showcase from Profile**
-
-Add this badge to your README profile:
-
-```markdown
-<p align="center">
-  <a href="https://your-deployed-url.com/3d-interactive-showcase.html">
-    <img src="https://img.shields.io/badge/🌌%203D%20Showcase-Interactive%20Universe-9d4edd?style=for-the-badge" />
+<p align="center" style="animation: fadeInUp 0.8s ease 1s backwards;">
+  <a href="https://milan-portfolio-website.vercel.app/" target="_blank" style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-39d353?style=for-the-badge" style="
+      transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      cursor: pointer;
+      filter: drop-shadow(0 0 8px rgba(57, 211, 83, 0));
+    " 
+    onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(57, 211, 83, 0.4))';"
+    onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 0 8px rgba(57, 211, 83, 0))';"
+    />
+  </a>
+  <a href="https://github.com/Milan07xt" target="_blank" style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/GitHub-Milan07xt-181717?style=for-the-badge&logo=github" style="
+      transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      cursor: pointer;
+      filter: drop-shadow(0 0 8px rgba(0, 0, 0, 0));
+    "
+    onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(0, 0, 0, 0.3))';"
+    onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 0 8px rgba(0, 0, 0, 0))';"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/milan-rathod07" target="_blank" style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Milan%20Rathod-0A66C2?style=for-the-badge&logo=linkedin" style="
+      transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      cursor: pointer;
+      filter: drop-shadow(0 0 8px rgba(10, 102, 194, 0));
+    "
+    onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(10, 102, 194, 0.4))';"
+    onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 0 8px rgba(10, 102, 194, 0))';"
+    />
+  </a>
+  <a href="mailto:rathodmilan216@gmail.com" style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/Email-rathodmilan216%40gmail.com-EA4335?style=for-the-badge" style="
+      transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      cursor: pointer;
+      filter: drop-shadow(0 0 8px rgba(234, 67, 53, 0));
+    "
+    onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(234, 67, 53, 0.4))';"
+    onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 0 8px rgba(234, 67, 53, 0))';"
+    />
   </a>
 </p>
-```
 
 ---
 
-## 🎨 Animation Breakdown
+## 🚀 Featured Projects (3D Cards)
 
-### **Profile README Animations**
+<div style="animation: fadeInUp 0.8s ease 1.2s backwards;">
 
-| Animation | Duration | Effect |
-|-----------|----------|--------|
-| Title Entrance | 1s | Fades down with 3D tilt |
-| Subtitle Entrance | 0.8s | Slides right with rotation |
-| Gradient Text | 4s looping | Color shift animation |
-| Tech Icons | 3s looping | 3D rotation (staggered) |
-| Project Cards Hover | 0.6s | 360° flip + 3D scale |
-| Social Links Hover | 0.4s | Lift + shadow glow |
-| Floating Title | 3s looping | Continuous float motion |
+<div style="
+  perspective: 1200px;
+  margin: 30px auto;
+  max-width: 350px;
+">
+  <div style="
+    position: relative;
+    width: 100%;
+    height: 250px;
+    transition: transform 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    transform-style: preserve-3d;
+    cursor: pointer;
+  "
+  onmouseover="this.style.transform='rotateY(360deg) rotateX(5deg) scale(1.05)';"
+  onmouseout="this.style.transform='rotateY(0deg) rotateX(0deg) scale(1)';"
+  >
+    <div style="
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      padding: 25px;
+      background: linear-gradient(135deg, #39d353 0%, #1f6feb 100%);
+      border-radius: 15px;
+      backface-visibility: hidden;
+      box-shadow: 0 8px 32px rgba(57, 211, 83, 0.3);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      color: white;
+      transform-style: preserve-3d;
+      transform: translateZ(20px);
+    ">
+      <h3 style="margin: 0 0 10px 0; font-size: 1.5em;">🎯</h3>
+      <h4 style="margin: 10px 0; font-size: 1.2em;">Face Recognition Attendance</h4>
+      <p style="margin: 5px 0; font-size: 0.9em; opacity: 0.9;">Python • Django • OpenCV</p>
+      <div style="margin-top: 15px; font-size: 0.85em;">
+        <a href="https://face-detection-attendance-woad.vercel.app/home/" style="color: white; text-decoration: none; margin: 0 8px;">Live →</a>
+        <a href="https://github.com/Milan07xt/SEM-06" style="color: white; text-decoration: none; margin: 0 8px;">Code →</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-### **3D Showcase Animations**
+<div style="
+  perspective: 1200px;
+  margin: 30px auto;
+  max-width: 350px;
+">
+  <div style="
+    position: relative;
+    width: 100%;
+    height: 250px;
+    transition: transform 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    transform-style: preserve-3d;
+    cursor: pointer;
+  "
+  onmouseover="this.style.transform='rotateY(360deg) rotateX(5deg) scale(1.05)';"
+  onmouseout="this.style.transform='rotateY(0deg) rotateX(0deg) scale(1)';"
+  >
+    <div style="
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      padding: 25px;
+      background: linear-gradient(135deg, #FF6B6B 0%, #4ECDC4 100%);
+      border-radius: 15px;
+      backface-visibility: hidden;
+      box-shadow: 0 8px 32px rgba(255, 107, 107, 0.3);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      color: white;
+      transform-style: preserve-3d;
+      transform: translateZ(20px);
+    ">
+      <h3 style="margin: 0 0 10px 0; font-size: 1.5em;">🏋️</h3>
+      <h4 style="margin: 10px 0; font-size: 1.2em;">Gym Management System</h4>
+      <p style="margin: 5px 0; font-size: 0.9em; opacity: 0.9;">Python • Django • SQLite</p>
+      <div style="margin-top: 15px; font-size: 0.85em;">
+        <a href="https://django-gym-management-system-websit-one.vercel.app/" style="color: white; text-decoration: none; margin: 0 8px;">Live →</a>
+        <a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website" style="color: white; text-decoration: none; margin: 0 8px;">Code →</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-| Element | Animation | Speed |
-|---------|-----------|-------|
-| Main Cube | Mouse-reactive rotation | Smooth lerp |
-| Wireframe Cube | Counter-rotation + Z spin | 0.002-0.004 rad/frame |
-| Orbiting Spheres | Elliptical orbit paths | Variable speeds |
-| Torus | Multi-axis rotation | 0.003-0.004 rad/frame |
-| Particles | Falling + drift | 0.02 units/frame |
-| Lights | Static + color glow | Realtime shadows |
+<div style="
+  perspective: 1200px;
+  margin: 30px auto;
+  max-width: 350px;
+">
+  <div style="
+    position: relative;
+    width: 100%;
+    height: 250px;
+    transition: transform 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    transform-style: preserve-3d;
+    cursor: pointer;
+  "
+  onmouseover="this.style.transform='rotateY(360deg) rotateX(5deg) scale(1.05)';"
+  onmouseout="this.style.transform='rotateY(0deg) rotateX(0deg) scale(1)';"
+  >
+    <div style="
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      padding: 25px;
+      background: linear-gradient(135deg, #A8EDEA 0%, #FED6E3 100%);
+      border-radius: 15px;
+      backface-visibility: hidden;
+      box-shadow: 0 8px 32px rgba(168, 237, 234, 0.3);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      color: #333;
+      transform-style: preserve-3d;
+      transform: translateZ(20px);
+    ">
+      <h3 style="margin: 0 0 10px 0; font-size: 1.5em;">🏨</h3>
+      <h4 style="margin: 10px 0; font-size: 1.2em;">Hotel Management System</h4>
+      <p style="margin: 5px 0; font-size: 0.9em; opacity: 0.8;">Python • Django • REST API</p>
+      <div style="margin-top: 15px; font-size: 0.85em;">
+        <a href="https://hotel-website-project-kappa.vercel.app/" style="color: #333; text-decoration: none; margin: 0 8px;">Live →</a>
+        <a href="https://github.com/Milan07xt/Hotel-Website-Project" style="color: #333; text-decoration: none; margin: 0 8px;">Code →</a>
+      </div>
+    </div>
+  </div>
+</div>
 
----
-
-## 🔧 Customization
-
-### **Change Colors**
-
-**In Profile README:**
-```html
-<!-- Current green: #39d353 -->
-<!-- Change to your color -->
-background: linear-gradient(135deg, #YOUR_COLOR 0%, #YOUR_COLOR2 100%);
-```
-
-**In 3D Showcase:**
-```javascript
-// Main cube color
-const material = new THREE.MeshPhongMaterial({
-    color: 0x39d353,  // Change this hex value
-    emissive: 0x39d353  // And this one
-});
-```
-
-### **Adjust Animation Speed**
-
-**Profile README:**
-```css
-/* Change '3s' to any duration */
-animation: rotate3d 3s linear infinite;
-
-/* Change '0.6s' for card flip speed */
-transition: transform 0.6s cubic-bezier(...);
-```
-
-**3D Showcase:**
-```javascript
-// Particle speed
-positions[i + 1] -= 0.02;  // Increase number for faster fall
-
-// Sphere orbit speed
-sphere.userData.speed = 0.003 + (i * 0.0005);  // Adjust values
-```
-
-### **Add More Particles**
-
-```javascript
-const particleCount = 100;  // Change to 200, 300, etc.
-```
-
-### **Change Project Card Gradients**
-
-```html
-<!-- Current gradient -->
-background: linear-gradient(135deg, #39d353 0%, #1f6feb 100%);
-
-<!-- Try these combinations -->
-<!-- Sunset: #FF6B6B → #FFA94D -->
-<!-- Ocean: #4ECDC4 → #1f6feb -->
-<!-- Purple: #9d4edd → #5a189a -->
-```
-
----
-
-## 📱 Browser Compatibility
-
-### **Profile README**
-- ✅ All modern browsers (Chrome, Firefox, Safari, Edge)
-- ✅ Mobile browsers (iOS Safari, Chrome Mobile)
-- ✅ GitHub renders CSS 3D transforms
-- ✅ Inline JavaScript (onmouseover, onmouseout)
-
-### **3D Showcase**
-- ✅ Chrome 60+
-- ✅ Firefox 55+
-- ✅ Safari 12+
-- ✅ Edge 79+
-- ✅ Mobile browsers (with touch support)
-- ⚠️ Requires JavaScript enabled
-
----
-
-## 🚀 Performance Tips
-
-1. **Profile README** - No performance issues, fully CSS/HTML
-2. **3D Showcase** - Runs at 60 FPS on most devices
-   - Reduces particle count on mobile (auto-detects)
-   - Uses `requestAnimationFrame` for optimization
-   - WebGL rendering for speed
-
----
-
-## 📸 What These Look Like
-
-### **Profile README**
-```
-┌─────────────────────────────┐
-│   Milan Rathod              │ ← Floating title
-│   Python | Django | Backend │ ← Animated gradient
-│                             │
-│  [🎯 Project] [🏋️ Project] │ ← 3D flip cards (hover)
-│  [🏨 Project]               │
-│                             │
-│  [🐍][🎯][⚙️][💾]...      │ ← Rotating icons
-│                             │
-└─────────────────────────────┘
-```
-
-### **3D Showcase**
-```
-    🌌 Interactive 3D Universe
-    
-    Rotating Cube (responds to mouse)
-    ↻ Wireframe Counter-Cube
-    ⊙ Orbiting Colored Spheres
-    ◎ Animated Torus
-    ✨ Floating Particles
-    
-    [Python] [Django] [React]... ← Clickable tags
-```
+</div>
 
 ---
 
-## ✅ Implementation Checklist
+## 💻 Tech Stack with 3D Effect
 
-### Phase 1: Profile README
-- [ ] Copy `animated-3d-github-profile.md` content
-- [ ] Update your GitHub README
-- [ ] Test animations on your profile
-- [ ] Check on mobile device
-
-### Phase 2: 3D Showcase (Optional)
-- [ ] Choose deployment platform (Vercel/Netlify/GitHub Pages)
-- [ ] Deploy `3d-interactive-showcase.html`
-- [ ] Get live URL
-- [ ] Add badge to README linking to 3D showcase
-
-### Phase 3: Customization
-- [ ] Change colors to your brand
-- [ ] Adjust animation speeds
-- [ ] Add custom tech tags
-- [ ] Test on multiple browsers
-
----
-
-## 🎯 Next Steps
-
-1. **Replace your README** with the animated version
-2. **Deploy 3D showcase** (takes 5 minutes on Vercel)
-3. **Link everything together**
-4. **Share your profile** - it's now 🔥 impressive!
-
----
-
-## 💡 Pro Tips
-
-- **Profile animations** = GitHub-native ✨ (no external dependencies)
-- **3D showcase** = Wow factor 🚀 (impresses interviewers/recruiters)
-- **Mobile-responsive** = Works everywhere 📱
-- **Fast-loading** = Under 1MB total 🚄
-- **Interview edge** = Stands out from other freshers 🎯
-
----
-
-## 🤝 Need Help?
-
-If animations aren't showing:
-1. Hard refresh your GitHub profile (Ctrl+Shift+R)
-2. Check browser console for errors
-3. Ensure JavaScript is enabled
-4. Try different browser
-
-For 3D Showcase issues:
-1. Check browser supports WebGL
-2. Verify Three.js CDN is loading (network tab)
-3. Check for console errors
-4. Try on a different browser
-
----
-
-## 🎓 What This Shows Employers
-
-✅ **CSS 3D Transform Knowledge**
-✅ **JavaScript Interactivity**
-✅ **Three.js / WebGL Experience**
-✅ **Attention to Detail**
-✅ **Frontend Design Sense**
-✅ **Performance Optimization**
-✅ **Creative Problem Solving**
+<p align="center" style="animation: fadeInUp 0.8s ease 1.4s backwards; perspective: 1000px;">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" style="
+    transition: all 0.3s ease;
+    display: inline-block;
+    animation: rotate3d 3s linear infinite;
+    animation-delay: 0s;
+  " />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" style="
+    transition: all 0.3s ease;
+    display: inline-block;
+    animation: rotate3d 3s linear infinite;
+    animation-delay: 0.2s;
+  " />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="
+    transition: all 0.3s ease;
+    display: inline-block;
+    animation: rotate3d 3s linear infinite;
+    animation-delay: 0.4s;
+  " />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="
+    transition: all 0.3s ease;
+    display: inline-block;
+    animation: rotate3d 3s linear infinite;
+    animation-delay: 0.6s;
+  " />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="
+    transition: all 0.3s ease;
+    display: inline-block;
+    animation: rotate3d 3s linear infinite;
+    animation-delay: 0.8s;
+  " />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="
+    transition: all 0.3s ease;
+    display: inline-block;
+    animation: rotate3d 3s linear infinite;
+    animation-delay: 1s;
+  " />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" style="
+    transition: all 0.3s ease;
+    display: inline-block;
+    animation: rotate3d 3s linear infinite;
+    animation-delay: 1.2s;
+  " />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" style="
+    transition: all 0.3s ease;
+    display: inline-block;
+    animation: rotate3d 3s linear infinite;
+    animation-delay: 1.4s;
+  " />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="
+    transition: all 0.3s ease;
+    display: inline-block;
+    animation: rotate3d 3s linear infinite;
+    animation-delay: 1.6s;
+  " />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="
+    transition: all 0.3s ease;
+    display: inline-block;
+    animation: rotate3d 3s linear infinite;
+    animation-delay: 1.8s;
+  " />
+</p>
 
 ---
 
-## 📝 License
+## 🔥 GitHub Statistics
 
-Free to use, modify, and share! Make it your own. 🎨
+<p align="center" style="animation: fadeInUp 0.8s ease 1.6s backwards;">
+  <img src="https://streak-stats.demolab.com?user=Milan07xt&theme=github-dark&hide_border=true" alt="GitHub Streak" style="
+    filter: drop-shadow(0 0 20px rgba(57, 211, 83, 0.3));
+    transition: all 0.4s ease;
+  " 
+  onmouseover="this.style.transform='scale(1.02) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 30px rgba(57, 211, 83, 0.5))';"
+  onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 0 20px rgba(57, 211, 83, 0.3))';"
+  />
+</p>
+
+<p align="center" style="animation: fadeInUp 0.8s ease 1.8s backwards;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milan07xt&theme=github-compact" alt="Contribution Graph" style="
+    filter: drop-shadow(0 0 15px rgba(57, 211, 83, 0.2));
+    transition: all 0.4s ease;
+  "
+  onmouseover="this.style.filter='drop-shadow(0 5px 25px rgba(57, 211, 83, 0.4))';"
+  onmouseout="this.style.filter='drop-shadow(0 0 15px rgba(57, 211, 83, 0.2))';"
+  />
+</p>
 
 ---
 
-### **One Last Thing**
+## 🎯 Current Goals
 
-Your profile now has:
-- ✨ Smooth entrance animations
-- 🎯 Interactive 3D flip cards  
-- 🌀 Rotating tech stack with staggered timing
-- 🌌 Optional interactive 3D universe showcase
-- 📱 Full mobile responsiveness
-- 🚀 Zero performance impact
+<div align="center" style="
+  animation: fadeInUp 0.8s ease 2s backwards;
+  font-size: 16px;
+  line-height: 2;
+  perspective: 800px;
+">
+  <div style="
+    padding: 20px;
+    background: linear-gradient(135deg, rgba(57, 211, 83, 0.1), rgba(31, 111, 235, 0.1));
+    border-radius: 10px;
+    border: 2px solid #39d353;
+    transform: translateZ(10px);
+  ">
+    ✅ **Improve Python & Django Skills**  
+    ✅ **Build Real-World Production Projects**  
+    ✅ **Contribute to Open Source**  
+    ✅ **Secure a Python Developer Role**
+  </div>
+</div>
 
-**This will definitely get you noticed!** 💪
+---
 
-Good luck with your job hunt! 🚀
+<div align="center" style="
+  animation: fadeInUp 0.8s ease 2.2s backwards;
+  margin: 30px 0;
+  font-size: 18px;
+  font-weight: bold;
+  color: #39d353;
+  text-shadow: 0 0 20px rgba(57, 211, 83, 0.5);
+">
+
+> 💡 "Code. Learn. Build. Grow."
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=120&section=footer&animation=fadeIn"/>
+
+---
+
+<style>
+  /* Floating Animation */
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0px) rotateX(0deg);
+    }
+    50% {
+      transform: translateY(-15px) rotateX(5deg);
+    }
+  }
+
+  /* 3D Rotating Icons */
+  @keyframes rotate3d {
+    0% {
+      transform: rotateY(0deg) rotateZ(0deg) scale(1);
+    }
+    50% {
+      transform: rotateY(180deg) rotateZ(10deg) scale(1.1);
+    }
+    100% {
+      transform: rotateY(360deg) rotateZ(0deg) scale(1);
+    }
+  }
+
+  /* Gradient Shift */
+  @keyframes gradient-shift {
+    0%, 100% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+  }
+
+  /* Fade Animations */
+  @keyframes fadeInDown {
+    from {
+      opacity: 0;
+      transform: translateY(-30px) rotateX(-10deg);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) rotateX(0deg);
+    }
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(30px) translateZ(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) translateZ(0);
+    }
+  }
+
+  @keyframes slideInRight {
+    from {
+      opacity: 0;
+      transform: translateX(-50px) rotateY(20deg);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0) rotateY(0deg);
+    }
+  }
+
+  @keyframes fadeInLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-30px) rotateY(-10deg);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0) rotateY(0deg);
+    }
+  }
+
+  /* 3D Card Hover */
+  div:hover {
+    transform-origin: center;
+  }
+
+  /* Text Shadows for Depth */
+  h1, h2, h3, h4 {
+    text-shadow: 0 2px 10px rgba(57, 211, 83, 0.2);
+  }
+</style>
