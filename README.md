@@ -18,8 +18,10 @@
 <br>
 🏨 Hotel Management System</a> - SQLite - HTML - CSS - <a href="https://hotel-website-project-kappa.vercel.app/" class="btn-link">
 <i class="fa-solid fa-arrow-up-right-from-square"> Live Demo</a><span> <a href="https://github.com/Milan07xt/Hotel-Website-Project" class="btn-link"><i class="fab fa-github"> Code</a>
-<br> 
 
+<br> 
+<br> 
+<br> 
 💻 Tech Stack <h2 align="center">💻 Languages & Tools</h2> <p align="center">
 <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=django" />
 <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" />
