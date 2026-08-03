@@ -10,7 +10,6 @@
             padding: 0;
             box-sizing: border-box;
         }
-
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #0f3460 0%, #16213e 50%, #1a1a2e 100%);
@@ -18,7 +17,6 @@
             overflow-x: hidden;
             line-height: 1.6;
         }
-
         /* 3D Canvas Section */
         .hero-section {
             position: relative;
@@ -29,7 +27,6 @@
             justify-content: center;
             overflow: hidden;
         }
-
         #canvas {
             position: absolute;
             top: 0;
@@ -38,14 +35,12 @@
             width: 100%;
             height: 100%;
         }
-
         .hero-content {
             position: relative;
             z-index: 10;
             text-align: center;
             animation: fadeInDown 1s ease;
-        }
-
+       }
         .hero-content h1 {
             font-size: clamp(2.5em, 8vw, 5em);
             margin-bottom: 20px;
@@ -54,7 +49,6 @@
             letter-spacing: 2px;
             animation: float 3s ease-in-out infinite;
         }
-
         .hero-content .subtitle {
             font-size: clamp(1.1em, 3vw, 1.5em);
             color: #1f6feb;
@@ -66,7 +60,6 @@
             background-clip: text;
             animation: gradient-shift 4s ease infinite;
         }
-
         .scroll-indicator {
             position: absolute;
             bottom: 30px;
@@ -76,7 +69,6 @@
             cursor: pointer;
             z-index: 15;
         }
-
         .scroll-indicator svg {
             width: 30px;
             height: 30px;
@@ -84,23 +76,19 @@
             stroke-width: 2;
             fill: none;
         }
-
         /* Main Content Section */
         .container {
             max-width: 1200px;
             margin: 0 auto;
             padding: 0 20px;
         }
-
         section {
             padding: 80px 0;
             animation: fadeInUp 0.8s ease;
         }
-
-        section.dark {
+ section.dark {
             background: linear-gradient(180deg, rgba(15, 52, 96, 0.5), rgba(26, 26, 46, 0.5));
         }
-
         h2 {
             font-size: 3em;
             margin-bottom: 50px;
@@ -110,7 +98,6 @@
             position: relative;
             padding-bottom: 20px;
         }
-
         h2:after {
             content: '';
             position: absolute;
@@ -122,7 +109,6 @@
             background: linear-gradient(90deg, #39d353, #1f6feb);
             border-radius: 2px;
         }
-
         /* About Section */
         .about-grid {
             display: grid;
@@ -130,7 +116,6 @@
             gap: 30px;
             margin-top: 40px;
         }
-
         .about-card {
             background: rgba(57, 211, 83, 0.1);
             border: 2px solid #39d353;
@@ -140,24 +125,20 @@
             cursor: pointer;
             perspective: 1000px;
         }
-
-        .about-card:hover {
+    .about-card:hover {
             transform: translateY(-10px) rotateX(5deg);
             background: rgba(57, 211, 83, 0.2);
             box-shadow: 0 20px 40px rgba(57, 211, 83, 0.3);
         }
-
         .about-card h3 {
             font-size: 1.3em;
             margin-bottom: 15px;
             color: #39d353;
         }
-
         .about-card p {
             color: rgba(255, 255, 255, 0.8);
             line-height: 1.8;
         }
-
         /* Projects Section */
         .projects-grid {
             display: grid;
@@ -165,14 +146,12 @@
             gap: 30px;
             margin-top: 40px;
         }
-
         .project-card {
             position: relative;
             height: 300px;
             perspective: 1200px;
             cursor: pointer;
         }
-
         .project-card-inner {
             position: relative;
             width: 100%;
@@ -180,11 +159,9 @@
             transition: transform 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
             transform-style: preserve-3d;
         }
-
         .project-card:hover .project-card-inner {
             transform: rotateY(360deg) rotateX(5deg);
         }
-
         .project-card-face {
             position: absolute;
             width: 100%;
@@ -199,38 +176,30 @@
             text-align: center;
             box-shadow: 0 8px 32px rgba(57, 211, 83, 0.3);
         }
-
         .project-1 {
             background: linear-gradient(135deg, #39d353 0%, #1f6feb 100%);
         }
-
         .project-2 {
             background: linear-gradient(135deg, #FF6B6B 0%, #4ECDC4 100%);
-        }
-
-        .project-3 {
+        }        .project-3 {
             background: linear-gradient(135deg, #A8EDEA 0%, #FED6E3 100%);
             color: #333;
         }
-
         .project-card-face h3 {
             font-size: 1.5em;
             margin: 15px 0;
         }
-
         .project-card-face p {
             font-size: 0.9em;
             opacity: 0.9;
             margin-bottom: 15px;
         }
-
         .project-links {
             display: flex;
             gap: 15px;
             justify-content: center;
             margin-top: auto;
         }
-
         .project-links a {
             color: inherit;
             text-decoration: none;
@@ -239,12 +208,10 @@
             border-bottom: 2px solid currentColor;
             padding-bottom: 3px;
         }
-
         .project-links a:hover {
             transform: translateY(-3px);
             opacity: 0.8;
         }
-
         /* Tech Stack Section */
         .tech-stack {
             display: flex;
@@ -253,13 +220,11 @@
             gap: 15px;
             margin-top: 40px;
         }
-
         .tech-item {
             padding: 15px;
             perspective: 1000px;
             transition: all 0.3s ease;
         }
-
         .tech-item img {
             width: 60px;
             height: 60px;
@@ -267,12 +232,10 @@
             filter: drop-shadow(0 0 10px rgba(57, 211, 83, 0.3));
             transition: all 0.3s ease;
         }
-
         .tech-item:hover img {
             transform: scale(1.2) rotateZ(10deg);
             filter: drop-shadow(0 0 20px rgba(57, 211, 83, 0.6));
         }
-
         /* Stats Section */
         .stats {
             display: grid;
@@ -281,14 +244,12 @@
             margin-top: 40px;
             text-align: center;
         }
-
         .stat-item {
             padding: 20px;
             border-radius: 10px;
             background: rgba(57, 211, 83, 0.1);
             border: 2px solid #39d353;
         }
-
         .stat-item img {
             width: 100%;
             height: auto;
@@ -296,12 +257,10 @@
             box-shadow: 0 8px 20px rgba(57, 211, 83, 0.2);
             transition: all 0.3s ease;
         }
-
         .stat-item img:hover {
             transform: scale(1.05);
             box-shadow: 0 12px 30px rgba(57, 211, 83, 0.4);
         }
-
         /* Connect Section */
         .connect-grid {
             display: grid;
@@ -309,7 +268,6 @@
             gap: 20px;
             margin-top: 40px;
         }
-
         .connect-btn {
             padding: 20px;
             border: 2px solid #39d353;
@@ -325,14 +283,12 @@
             align-items: center;
             justify-content: center;
         }
-
         .connect-btn:hover {
             background: #39d353;
             color: #000;
             transform: scale(1.1) translateY(-5px);
             box-shadow: 0 10px 30px rgba(57, 211, 83, 0.5);
         }
-
         /* Footer */
         footer {
             text-align: center;
@@ -340,7 +296,6 @@
             border-top: 2px solid #39d353;
             color: rgba(255, 255, 255, 0.8);
         }
-
         .quote {
             font-size: 1.3em;
             font-weight: bold;
@@ -348,7 +303,6 @@
             text-shadow: 0 0 20px rgba(57, 211, 83, 0.5);
             margin: 20px 0;
         }
-
         /* Animations */
         @keyframes fadeInDown {
             from {
@@ -360,7 +314,6 @@
                 transform: translateY(0) rotateX(0deg);
             }
         }
-
         @keyframes fadeInUp {
             from {
                 opacity: 0;
@@ -371,7 +324,6 @@
                 transform: translateY(0);
             }
         }
-
         @keyframes float {
             0%, 100% {
                 transform: translateY(0px);
@@ -380,7 +332,6 @@
                 transform: translateY(-15px);
             }
         }
-
         @keyframes gradient-shift {
             0%, 100% {
                 background-position: 0% 50%;
@@ -389,7 +340,6 @@
                 background-position: 100% 50%;
             }
         }
-
         @keyframes rotate3d {
             0% {
                 transform: rotateY(0deg) rotateZ(0deg);
@@ -401,7 +351,6 @@
                 transform: rotateY(360deg) rotateZ(0deg);
             }
         }
-
         @keyframes bounce {
             0%, 100% {
                 transform: translateX(-50%) translateY(0);
@@ -410,30 +359,24 @@
                 transform: translateX(-50%) translateY(10px);
             }
         }
-
         /* Responsive */
         @media (max-width: 768px) {
             h2 {
                 font-size: 2em;
             }
-
             .hero-content h1 {
                 font-size: 2em;
             }
-
             .hero-content .subtitle {
                 font-size: 1.1em;
             }
-
             section {
                 padding: 40px 0;
             }
-
             .tech-item img {
                 width: 50px;
                 height: 50px;
             }
-
             .projects-grid {
                 grid-template-columns: 1fr;
             }
@@ -454,7 +397,6 @@
             </svg>
         </div>
     </div>
-
     <!-- About Section -->
     <section id="about" class="dark">
         <div class="container">
@@ -487,7 +429,6 @@
             </div>
         </div>
     </section>
-
     <!-- Projects Section -->
     <section id="projects">
         <div class="container">
@@ -506,7 +447,6 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="project-card">
                     <div class="project-card-inner">
                         <div class="project-card-face project-2">
@@ -520,7 +460,6 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="project-card">
                     <div class="project-card-inner">
                         <div class="project-card-face project-3">
@@ -537,7 +476,6 @@
             </div>
         </div>
     </section>
-
     <!-- Tech Stack Section -->
     <section id="tech" class="dark">
         <div class="container">
@@ -582,7 +520,6 @@
             </div>
         </div>
     </section>
-
     <!-- GitHub Stats Section -->
     <section id="stats">
         <div class="container">
@@ -597,7 +534,6 @@
             </div>
         </div>
     </section>
-
     <!-- Connect Section -->
     <section id="connect" class="dark">
         <div class="container">
@@ -608,13 +544,11 @@
                 <a href="https://www.linkedin.com/in/milan-rathod07" class="connect-btn" target="_blank">🔗 LinkedIn</a>
                 <a href="mailto:rathodmilan216@gmail.com" class="connect-btn">📧 Email</a>
             </div>
-
             <div style="text-align: center; margin-top: 50px;">
                 <p class="quote">💡 "Code. Learn. Build. Grow."</p>
             </div>
         </div>
-    </section>
-
+    </section>p
     <!-- Footer -->
     <footer>
         <div class="container">
@@ -622,7 +556,6 @@
             <p style="margin-top: 10px; font-size: 0.9em; color: #39d353;">✨ Built with 3D animations, React, Three.js & modern web technologies</p>
         </div>
     </footer>
-
     <!-- Three.js Script -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script>
@@ -639,23 +572,18 @@
             antialias: true,
             alpha: true
         });
-
         renderer.setSize(window.innerWidth, window.innerHeight);
         renderer.setClearColor(0x000000, 0.1);
         camera.position.z = 5;
-
         // Lighting
         const ambientLight = new THREE.AmbientLight(0xffffff, 0.6);
         scene.add(ambientLight);
-
         const pointLight1 = new THREE.PointLight(0x39d353, 1);
         pointLight1.position.set(5, 5, 5);
         scene.add(pointLight1);
-
         const pointLight2 = new THREE.PointLight(0x1f6feb, 0.8);
         pointLight2.position.set(-5, -5, 5);
         scene.add(pointLight2);
-
         // Main Cube
         const geometry = new THREE.BoxGeometry(2, 2, 2);
         const material = new THREE.MeshPhongMaterial({
@@ -666,7 +594,6 @@
         });
         const cube = new THREE.Mesh(geometry, material);
         scene.add(cube);
-
         // Wireframe Cube
         const wireframeGeometry = new THREE.BoxGeometry(2.5, 2.5, 2.5);
         const wireframeMaterial = new THREE.MeshPhongMaterial({
@@ -677,20 +604,16 @@
         });
         const wireframeCube = new THREE.Mesh(wireframeGeometry, wireframeMaterial);
         scene.add(wireframeCube);
-
         // Particles
         const particleCount = 100;
         const particleGeometry = new THREE.BufferGeometry();
         const positions = new Float32Array(particleCount * 3);
-
         for (let i = 0; i < particleCount * 3; i += 3) {
             positions[i] = (Math.random() - 0.5) * 20;
             positions[i + 1] = (Math.random() - 0.5) * 20;
             positions[i + 2] = (Math.random() - 0.5) * 20;
         }
-
         particleGeometry.setAttribute('position', new THREE.BufferAttribute(positions, 3));
-
         const particleMaterial = new THREE.PointsMaterial({
             color: 0x39d353,
             size: 0.1,
@@ -698,15 +621,12 @@
             transparent: true,
             opacity: 0.6
         });
-
         const particles = new THREE.Points(particleGeometry, particleMaterial);
         scene.add(particles);
-
         // Orbiting Spheres
         const orbitingSpheres = [];
         const sphereCount = 6;
         const orbitRadius = 4;
-
         for (let i = 0; i < sphereCount; i++) {
             const sphereGeometry = new THREE.SphereGeometry(0.3, 32, 32);
             const sphereMaterial = new THREE.MeshPhongMaterial({
@@ -715,17 +635,14 @@
                 emissiveIntensity: 0.5
             });
             const sphere = new THREE.Mesh(sphereGeometry, sphereMaterial);
-
-            sphere.userData = {
+          sphere.userData = {
                 angle: (i / sphereCount) * Math.PI * 2,
                 radius: orbitRadius,
                 speed: 0.003 + (i * 0.0005)
             };
-
             scene.add(sphere);
             orbitingSpheres.push(sphere);
         }
-
         // Torus
         const torusGeometry = new THREE.TorusGeometry(3, 0.2, 16, 100);
         const torusMaterial = new THREE.MeshPhongMaterial({
@@ -736,41 +653,32 @@
         const torus = new THREE.Mesh(torusGeometry, torusMaterial);
         torus.rotation.x = 0.5;
         scene.add(torus);
-
         // Mouse Interaction
         let mouseX = 0;
         let mouseY = 0;
         const targetRotation = { x: 0, y: 0 };
-
         document.addEventListener('mousemove', (e) => {
             mouseX = (e.clientX / window.innerWidth) * 2 - 1;
             mouseY = -(e.clientY / window.innerHeight) * 2 + 1;
-
-            targetRotation.y = mouseX * Math.PI * 0.5;
+           targetRotation.y = mouseX * Math.PI * 0.5;
             targetRotation.x = mouseY * Math.PI * 0.5;
         });
-
         // Window Resize
         window.addEventListener('resize', () => {
             camera.aspect = window.innerWidth / window.innerHeight;
             camera.updateProjectionMatrix();
             renderer.setSize(window.innerWidth, window.innerHeight);
         });
-
         // Animation Loop
         function animate() {
             requestAnimationFrame(animate);
-
             cube.rotation.x += (targetRotation.x - cube.rotation.x) * 0.05;
             cube.rotation.y += (targetRotation.y - cube.rotation.y) * 0.05;
-
             wireframeCube.rotation.x -= (targetRotation.x - wireframeCube.rotation.x) * 0.03;
             wireframeCube.rotation.y -= (targetRotation.y - wireframeCube.rotation.y) * 0.03;
             wireframeCube.rotation.z += 0.002;
-
             torus.rotation.x += 0.003;
             torus.rotation.y += 0.004;
-
             orbitingSpheres.forEach(sphere => {
                 sphere.userData.angle += sphere.userData.speed;
                 sphere.position.x = Math.cos(sphere.userData.angle) * sphere.userData.radius;
@@ -779,10 +687,8 @@
                 sphere.rotation.x += 0.01;
                 sphere.rotation.y += 0.02;
             });
-
             const positionAttribute = particles.geometry.getAttribute('position');
             const positionsArray = positionAttribute.array;
-
             for (let i = 1; i < particleCount * 3; i += 3) {
                 positionsArray[i] -= 0.02;
                 if (positionsArray[i] < -10) {
@@ -790,15 +696,11 @@
                 }
             }
             positionAttribute.needsUpdate = true;
-
             particles.rotation.x += 0.0001;
             particles.rotation.y += 0.0001;
-
             renderer.render(scene, camera);
         }
-
         animate();
-
         // Scroll to Section
         function scrollToSection(sectionId) {
             const section = document.getElementById(sectionId);
