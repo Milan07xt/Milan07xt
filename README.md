@@ -8,11 +8,11 @@
 <a href="https://www.linkedin.com/in/milan-rathod07"> <img src="https://img.shields.io/badge/LinkedIn-Milan%20Rathod-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
 </p></p> 🚀 Featured Projects
 
-<br><br>🎯 Face Recognition Attendance System - Python - Django - OpenCV - SQLite - 
+<br>🎯 Face Recognition Attendance System - Python - Django - OpenCV - SQLite - 
 <a href="https://face-detection-attendance-woad.vercel.app/home/" class="btn-link"> <i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
 <span><a href="https://github.com/Milan07xt/SEM-06" class="btn-link"><i class="fab fa-github"></i> Code</a>
 
-<br><br>
+<br>
 🏋️ Gym Management System - Python - Django - HTML - CSS - <a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> 
 <span><a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website" class="btn-link"><i class="fab fa-github"></i> Code</a> 
 <br><br>
