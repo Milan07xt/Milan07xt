@@ -2,7 +2,15 @@
 <h1 align="center">Hi 👋, I'm Milan Rathod</h1> 
 <h3 align="center"> Python Developer | Django Developer | Backend Developer </h3> <p align="center"> Passionate about developing modern web applications with Python & Django and creating clean, user-friendly UI/UX designs. </p> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Milan07xt&label=Profile%20Views&color=39d353&style=flat" /> </p> 
-👨‍💻 About Me - 🎓 B.Sc. Information Technology Graduate - 💻 Passionate about Python, Django & Full Stack Development - 🌱 Currently learning Django REST Framework & React - 📍 Gujarat, India - 🚀 Looking for Python Developer opportunities <br> <p> 
+👨‍💻 About Me
+- 🎓 B.Sc. Information Technology Graduate 
+- 💻 Passionate about Python, Django & Full Stack Development
+- 🌱 Currently learning Django REST Framework & React 
+- 📍 Gujarat, India
+- 🚀 Looking for Python Developer opportunities <br> <p> 
+  
+  <br>
+  <br>
 <a href="https://milan-portfolio-website.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-39d353?style=for-the-badge"/> </a>
 <a href="https://github.com/Milan07xt"> <img src="https://img.shields.io/badge/GitHub-Milan07xt-181717?style=for-the-badge&logo=github"/> </a>
 <a href="https://www.linkedin.com/in/milan-rathod07"> <img src="https://img.shields.io/badge/LinkedIn-Milan%20Rathod-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
