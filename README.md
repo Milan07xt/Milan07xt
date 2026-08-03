@@ -3,11 +3,11 @@
 <h3 align="center"> Python Developer | Django Developer | Backend Developer </h3> <p align="center"> Passionate about developing modern web applications with Python & Django and creating clean, user-friendly UI/UX designs. </p> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Milan07xt&label=Profile%20Views&color=39d353&style=flat" /> </p> 
 👨‍💻 About Me
-- 🎓 B.Sc. Information Technology Graduate 
-- 💻 Passionate about Python, Django & Full Stack Development
-- 🌱 Currently learning Django REST Framework & React 
-- 📍 Gujarat, India
-- 🚀 Looking for Python Developer opportunities <br> <p> 
+<br>- 🎓 B.Sc. Information Technology Graduate 
+<br>- 💻 Passionate about Python, Django & Full Stack Development
+<br>- 🌱 Currently learning Django REST Framework & React 
+<br>- 📍 Gujarat, India
+<br>- 🚀 Looking for Python Developer opportunities <br> <p> 
   
   <br>
   <br>
