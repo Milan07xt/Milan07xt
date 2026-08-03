@@ -15,7 +15,7 @@
   <i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> 
 <span><a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website" class="btn-link"><i class="fab fa-github"></i> Code</a> 
   
-<br><br>
+<br>
 🏨 Hotel Management System</a> - SQLite - HTML - CSS - <a href="https://hotel-website-project-kappa.vercel.app/" class="btn-link">
 <i class="fa-solid fa-arrow-up-right-from-square"> Live Demo</a><span> <a href="https://github.com/Milan07xt/Hotel-Website-Project" class="btn-link"><i class="fab fa-github"> Code</a>
 <br> 
