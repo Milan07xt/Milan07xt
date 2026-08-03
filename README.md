@@ -7,12 +7,15 @@
 <a href="https://github.com/Milan07xt"> <img src="https://img.shields.io/badge/GitHub-Milan07xt-181717?style=for-the-badge&logo=github"/> </a>
 <a href="https://www.linkedin.com/in/milan-rathod07"> <img src="https://img.shields.io/badge/LinkedIn-Milan%20Rathod-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
 </p></p> 🚀 Featured Projects
+
 <br><br>🎯 Face Recognition Attendance System - Python - Django - OpenCV - SQLite - 
 <a href="https://face-detection-attendance-woad.vercel.app/home/" class="btn-link"> <i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
 <span><a href="https://github.com/Milan07xt/SEM-06" class="btn-link"><i class="fab fa-github"></i> Code</a>
-<br>
+
+<br><br>
 🏋️ Gym Management System - Python - Django - HTML - CSS - <a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> 
 <span><a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website" class="btn-link"><i class="fab fa-github"></i> Code</a> 
+<br><br>
 🏨 Hotel Management System</a> - SQLite - HTML - CSS - <a href="https://hotel-website-project-kappa.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"> Live Demo</a>
 <span> <a href="https://github.com/Milan07xt/Hotel-Website-Project" class="btn-link"><i class="fab fa-github"> Code</a>
 <br> 💻 Tech Stack <h2 align="center">💻 Languages & Tools</h2> <p align="center">
