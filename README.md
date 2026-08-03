@@ -16,7 +16,9 @@
 🎯 Face Recognition Attendance System - Python - Django - OpenCV - SQLite - 
 <a href="https://face-detection-attendance-woad.vercel.app/home/" class="btn-link"> <i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
 <span><a href="https://github.com/Milan07xt/SEM-06" class="btn-link"><i class="fab fa-github"></i> Code</a>
-<br>
+
+</span>
+
 🏋️ Gym Management System - Python - Django - HTML - CSS - <a href="https://django-gym-management-system-websit-one.vercel.app/" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a> 
 <span><a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website" class="btn-link"><i class="fab fa-github"></i> Code</a> 
 
@@ -35,5 +37,5 @@
 <p align="center"> <a href="https://github.com/Milan07xt"> <img src="https://skillicons.dev/icons?i=github" /> </a>
 <a href="https://www.linkedin.com/in/milan-rathod07/?isSelfProfile=true"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:rathodmilan216@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>
 
-</p> 🎯 Current Goal ✔ Improve Python & Django Skills ✔ Build Real-World Projects ✔ Contribute to Open Source ✔ Get a Python Developer Job > **"Code. Learn. Build. Grow."**
+</p> 🎯 Current Goal ✔ Improve Python & Django Skills ✔ Build Real-World Projects ✔ Contribute to Open Source ✔ Get a Python Developer Job > "Code. Learn. Build. Grow."
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=120&section=footer"/>
