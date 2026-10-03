@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="470" viewBox="0 0 1280 470" role="img">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07070b"/><stop offset="1" stop-color="#151022"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1280" height="470" rx="28" fill="url(#bg)" stroke="#34234d"/>
+<text x="55" y="68" fill="#c084fc" font-family="Arial" font-size="24" font-weight="700">// LET'S CONNECT</text>
+<text x="55" y="120" fill="#f5f5f7" font-family="Arial" font-size="30" font-weight="700">Let's build something together</text>
+<text x="55" y="158" fill="#9f9aaa" font-family="Arial" font-size="18">Open to developer opportunities, projects and collaborations.</text>
+<rect x="55" y="205" width="550" height="70" rx="16" fill="#111018" stroke="#34234d"/><text x="75" y="234" fill="#67e8f9" font-family="Arial" font-size="15" font-weight="700">GitHub</text><text x="75" y="258" fill="#f5f5f7" font-family="Arial" font-size="16">Milan07xt</text><rect x="645" y="205" width="550" height="70" rx="16" fill="#111018" stroke="#34234d"/><text x="665" y="234" fill="#67e8f9" font-family="Arial" font-size="15" font-weight="700">LinkedIn</text><text x="665" y="258" fill="#f5f5f7" font-family="Arial" font-size="16">milan-rathod07</text><rect x="55" y="300" width="550" height="70" rx="16" fill="#111018" stroke="#34234d"/><text x="75" y="329" fill="#67e8f9" font-family="Arial" font-size="15" font-weight="700">Portfolio</text><text x="75" y="353" fill="#f5f5f7" font-family="Arial" font-size="16">milan-portfolio-website.vercel.app</text><rect x="645" y="300" width="550" height="70" rx="16" fill="#111018" stroke="#34234d"/><text x="665" y="329" fill="#67e8f9" font-family="Arial" font-size="15" font-weight="700">Email</text><text x="665" y="353" fill="#f5f5f7" font-family="Arial" font-size="16">rathodmilan216@gmail.com</text><text x="55" y="420" fill="#c084fc" font-family="Arial" font-size="20" font-weight="700">Code • Learn • Build • Grow</text></svg>
