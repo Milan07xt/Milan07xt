@@ -1,4 +1,5 @@
 import os
+<<<<<<< HEAD
 import urllib.request
 import base64
 
@@ -15,6 +16,12 @@ except Exception as e:
 os.makedirs('assets', exist_ok=True)
 
 id_card_svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
+=======
+
+os.makedirs('assets', exist_ok=True)
+
+id_card_svg = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
+>>>>>>> 58a1a25cd8c68598b67f2ef04f0b7bbaaaae3d56
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#080B14" />
@@ -29,6 +36,7 @@ id_card_svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" 
       <feGaussianBlur stdDeviation="8" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
+<<<<<<< HEAD
     <clipPath id="circleView">
       <circle cx="645" cy="220" r="75" />
     </clipPath>
@@ -53,6 +61,29 @@ id_card_svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" 
         100% {{ r: 5; opacity: 1; }}
       }}
       .status-dot {{ animation: pulse 2s infinite; }}
+=======
+    <style>
+      .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 32px; font-weight: bold; fill: #FFFFFF; letter-spacing: 2px; }
+      .subtitle { font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; fill: #22D3EE; letter-spacing: 4px; }
+      .label { font-family: monospace; font-size: 14px; fill: #A855F7; }
+      .value { font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; fill: #FFFFFF; font-weight: bold; }
+      
+      @keyframes scan {
+        0% { transform: translateY(0px); opacity: 0; }
+        10% { opacity: 0.5; }
+        50% { transform: translateY(350px); opacity: 0.5; }
+        90% { opacity: 0.5; }
+        100% { transform: translateY(400px); opacity: 0; }
+      }
+      .scanner { animation: scan 3s linear infinite; }
+      
+      @keyframes pulse {
+        0% { r: 5; opacity: 1; }
+        50% { r: 8; opacity: 0.5; }
+        100% { r: 5; opacity: 1; }
+      }
+      .status-dot { animation: pulse 2s infinite; }
+>>>>>>> 58a1a25cd8c68598b67f2ef04f0b7bbaaaae3d56
     </style>
   </defs>
 
@@ -93,11 +124,16 @@ id_card_svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" 
   <text x="550" y="75" class="label" fill="#22D3EE" font-family="'Segoe UI', sans-serif">OPEN TO OPPORTUNITIES</text>
 
   <rect x="530" y="120" width="230" height="230" rx="10" fill="rgba(34, 211, 238, 0.05)" stroke="#8B5CF6" stroke-dasharray="5,5"/>
+<<<<<<< HEAD
   
   <image href="{avatar_b64}" x="570" y="145" width="150" height="150" clip-path="url(#circleView)" />
   <circle cx="645" cy="220" r="75" fill="none" stroke="#22D3EE" stroke-width="4" filter="url(#glow)"/>
   
   <text x="645" y="325" font-family="monospace" font-size="16" fill="#A855F7" text-anchor="middle" letter-spacing="2px">MILAN_RATHOD</text>
+=======
+  <text x="645" y="240" font-family="monospace" font-size="60" fill="#8B5CF6" text-anchor="middle" filter="url(#glow)">{ }</text>
+  <text x="645" y="260" font-family="monospace" font-size="12" fill="#22D3EE" text-anchor="middle">MILAN_RATHOD</text>
+>>>>>>> 58a1a25cd8c68598b67f2ef04f0b7bbaaaae3d56
 
   <line x1="0" y1="0" x2="800" y2="0" stroke="#22D3EE" stroke-width="2" class="scanner" filter="url(#glow)"/>
 </svg>"""
@@ -150,3 +186,8 @@ with open('assets/id-card.svg', 'w', encoding='utf-8') as f:
 
 with open('assets/roadmap.svg', 'w', encoding='utf-8') as f:
     f.write(roadmap_svg)
+<<<<<<< HEAD
+=======
+
+print("Generated SVGs.")
+>>>>>>> 58a1a25cd8c68598b67f2ef04f0b7bbaaaae3d56
