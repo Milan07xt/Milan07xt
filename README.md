@@ -136,7 +136,7 @@
 <br/>
 
 <h2 align="center" style="color: #22D3EE;">🪪 DEVELOPER DASHBOARD</h2>
-<table width="100%" style="border: 1px solid #8B5CF6; border-radius: 10px; background-color: #080B14; padding: 20px;">
+<table width="100%" style="border: 1px solid #8B5CF6; border-radius: 10px; background-color: #080B14; padding: 20px;" align="center">
   <tr>
     <td width="50%" valign="top" align="center">
       <p style="color:#FFFFFF;"><b>Primary Language:</b> <span style="color:#22D3EE;">Python</span></p>
