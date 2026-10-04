@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://github.com/Milan07xt.png" width="45" style="border-radius: 50%; vertical-align: middle;" alt="Profile Icon" /> Hi, I'm Milan Rathod
+# Hi, I'm Milan Rathod
 
 ### Python Developer | Django Developer | AI/ML Enthusiast
 
