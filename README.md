@@ -179,6 +179,6 @@
     <a href="https://github.com/Milan07xt"><img src="https://img.shields.io/badge/Milan07xt-050505?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
     <a href="https://www.linkedin.com/in/milan-rathod07"><img src="https://img.shields.io/badge/Milan_Rathod-050505?style=for-the-badge&logo=linkedin&logoColor=white&color=8B5CF6"/></a>
     <a href="https://milan-portfolio-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white&color=8B5CF6"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Download_Resume-050505?style=for-the-badge&logo=read-the-docs&logoColor=white&color=8B5CF6"/></a>
+    
   </p>
 </div>
