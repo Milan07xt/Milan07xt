@@ -138,12 +138,12 @@
 <h2 align="center" style="color: #22D3EE;">🪪 DEVELOPER DASHBOARD</h2>
 <table width="100%" style="border: 1px solid #8B5CF6; border-radius: 10px; background-color: #080B14; padding: 20px;">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <p style="color:#FFFFFF;"><b>Primary Language:</b> <span style="color:#22D3EE;">Python</span></p>
       <p style="color:#FFFFFF;"><b>Primary Framework:</b> <span style="color:#22D3EE;">Django</span></p>
       <p style="color:#FFFFFF;"><b>Backend:</b> <span style="color:#22D3EE;">Django REST Framework</span></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <p style="color:#FFFFFF;"><b>Database:</b> <span style="color:#22D3EE;">SQLite</span></p>
       <p style="color:#FFFFFF;"><b>AI/ML:</b> <span style="color:#22D3EE;">OpenCV / NumPy / Pandas</span></p>
       <p style="color:#FFFFFF;"><b>Version Control:</b> <span style="color:#22D3EE;">Git / GitHub</span></p>
