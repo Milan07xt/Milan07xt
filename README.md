@@ -72,7 +72,7 @@
       <img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" />
       <img src="https://img.shields.io/badge/MongoDB_Basic-050505?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #8B5CF6; padding: 15px; background: #080B14; border-radius: 10px;">
+    <td width="50%" valign="top" style="border: 1px solid #8B5CF6; padding: 10px; background: #080B14; border-radius: 10px;">
       <h4 style="color: #A855F7;">DATA & AI</h4>
       <img src="https://img.shields.io/badge/NumPy-050505?style=for-the-badge&logo=numpy&logoColor=white&color=013243" />
       <img src="https://img.shields.io/badge/Pandas-050505?style=for-the-badge&logo=pandas&logoColor=white&color=150458" />
