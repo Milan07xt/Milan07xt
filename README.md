@@ -53,42 +53,42 @@
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #8B5CF6; padding: 15px; background: #080B14; border-radius: 10px;">
       <h4 style="color: #A855F7;">PROGRAMMING & WEB</h4>
-      <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/Django-050505?style=for-the-badge&logo=django&logoColor=22D3EE&color=8B5CF6" />
+      <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
+      <img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" />
+      <img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" />
+      <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" />
+      <img src="https://img.shields.io/badge/Django-050505?style=for-the-badge&logo=django&logoColor=white&color=092E20" />
     </td>
     <td width="50%" valign="top" style="border: 1px solid #8B5CF6; padding: 15px; background: #080B14; border-radius: 10px;">
       <h4 style="color: #A855F7;">BACKEND</h4>
-      <img src="https://img.shields.io/badge/Django_REST_Framework-050505?style=for-the-badge&logo=django&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/REST_APIs-050505?style=for-the-badge&logo=fastapi&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/Authentication-050505?style=for-the-badge&logo=auth0&logoColor=22D3EE&color=8B5CF6" />
+      <img src="https://img.shields.io/badge/Django_REST_Framework-050505?style=for-the-badge&logo=django&logoColor=white&color=092E20" />
+      <img src="https://img.shields.io/badge/REST_APIs-050505?style=for-the-badge&logo=fastapi&logoColor=white&color=009688" />
+      <img src="https://img.shields.io/badge/Authentication-050505?style=for-the-badge&logo=auth0&logoColor=white&color=EB5424" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #8B5CF6; padding: 15px; background: #080B14; border-radius: 10px;">
       <h4 style="color: #A855F7;">DATABASE</h4>
-      <img src="https://img.shields.io/badge/SQLite-050505?style=for-the-badge&logo=sqlite&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=mysql&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/MongoDB_Basic-050505?style=for-the-badge&logo=mongodb&logoColor=22D3EE&color=8B5CF6" />
+      <img src="https://img.shields.io/badge/SQLite-050505?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57" />
+      <img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" />
+      <img src="https://img.shields.io/badge/MongoDB_Basic-050505?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
     </td>
     <td width="50%" valign="top" style="border: 1px solid #8B5CF6; padding: 15px; background: #080B14; border-radius: 10px;">
       <h4 style="color: #A855F7;">DATA & AI</h4>
-      <img src="https://img.shields.io/badge/NumPy-050505?style=for-the-badge&logo=numpy&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/Pandas-050505?style=for-the-badge&logo=pandas&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/OpenCV-050505?style=for-the-badge&logo=opencv&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/Machine_Learning-050505?style=for-the-badge&logo=tensorflow&logoColor=22D3EE&color=8B5CF6" />
+      <img src="https://img.shields.io/badge/NumPy-050505?style=for-the-badge&logo=numpy&logoColor=white&color=013243" />
+      <img src="https://img.shields.io/badge/Pandas-050505?style=for-the-badge&logo=pandas&logoColor=white&color=150458" />
+      <img src="https://img.shields.io/badge/OpenCV-050505?style=for-the-badge&logo=opencv&logoColor=white&color=5C3EE8" />
+      <img src="https://img.shields.io/badge/Machine_Learning-050505?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6F00" />
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top" style="border: 1px solid #8B5CF6; padding: 15px; background: #080B14; border-radius: 10px;" align="center">
       <h4 style="color: #A855F7;">TOOLS</h4>
-      <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visual-studio-code&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/Node.js_Basic-050505?style=for-the-badge&logo=node.js&logoColor=22D3EE&color=8B5CF6" />
-      <img src="https://img.shields.io/badge/React.js_Basic-050505?style=for-the-badge&logo=react&logoColor=22D3EE&color=8B5CF6" />
+      <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
+      <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white&color=181717" />
+      <img src="https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC" />
+      <img src="https://img.shields.io/badge/Node.js_Basic-050505?style=for-the-badge&logo=node.js&logoColor=white&color=339933" />
+      <img src="https://img.shields.io/badge/React.js_Basic-050505?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A" />
     </td>
   </tr>
 </table>
@@ -176,9 +176,9 @@
 <div align="center">
   <h2 style="color: #A855F7;">LET'S BUILD SOMETHING TOGETHER</h2>
   <p>
-    <a href="https://github.com/Milan07xt"><img src="https://img.shields.io/badge/Milan07xt-050505?style=for-the-badge&logo=github&logoColor=22D3EE&color=8B5CF6"/></a>
-    <a href="https://www.linkedin.com/in/milan-rathod07"><img src="https://img.shields.io/badge/Milan_Rathod-050505?style=for-the-badge&logo=linkedin&logoColor=22D3EE&color=8B5CF6"/></a>
-    <a href="https://milan-portfolio-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=22D3EE&color=8B5CF6"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Download_Resume-050505?style=for-the-badge&logo=read-the-docs&logoColor=22D3EE&color=8B5CF6"/></a>
+    <a href="https://github.com/Milan07xt"><img src="https://img.shields.io/badge/Milan07xt-050505?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
+    <a href="https://www.linkedin.com/in/milan-rathod07"><img src="https://img.shields.io/badge/Milan_Rathod-050505?style=for-the-badge&logo=linkedin&logoColor=white&color=8B5CF6"/></a>
+    <a href="https://milan-portfolio-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white&color=8B5CF6"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Download_Resume-050505?style=for-the-badge&logo=read-the-docs&logoColor=white&color=8B5CF6"/></a>
   </p>
 </div>
