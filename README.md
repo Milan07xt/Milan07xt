@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Milan Rathod
+# Hi, I'm Milan Rathod 👨‍💻
 
 ### Python Developer | Django Developer | AI/ML Enthusiast
 
