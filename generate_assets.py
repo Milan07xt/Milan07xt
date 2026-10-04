@@ -113,6 +113,9 @@ roadmap_svg = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" 
       <feGaussianBlur stdDeviation="5" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#EC4899" />
+    </marker>
     <style>
       .text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #FFFFFF; font-weight: bold; text-anchor: middle; }
       @keyframes dash {
@@ -128,7 +131,11 @@ roadmap_svg = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" 
     </style>
   </defs>
 
-  <line x1="100" y1="100" x2="900" y2="100" class="line" filter="url(#glow)"/>
+  <line x1="120" y1="100" x2="240" y2="100" class="line" filter="url(#glow)" marker-end="url(#arrow)"/>
+  <line x1="280" y1="100" x2="400" y2="100" class="line" filter="url(#glow)" marker-end="url(#arrow)"/>
+  <line x1="440" y1="100" x2="560" y2="100" class="line" filter="url(#glow)" marker-end="url(#arrow)"/>
+  <line x1="600" y1="100" x2="720" y2="100" class="line" filter="url(#glow)" marker-end="url(#arrow)"/>
+  <line x1="760" y1="100" x2="880" y2="100" class="line" filter="url(#glow)" marker-end="url(#arrow)"/>
 
   <g transform="translate(100, 100)">
     <circle cx="0" cy="0" r="15" fill="#0f172a" stroke="#06B6D4" stroke-width="4" filter="url(#glow)" class="node-anim"/>
