@@ -11,7 +11,7 @@
 <p>
   <a href="https://milan-portfolio-website.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/milan-rathod07"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Milan07xt"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Milan07xt"><img src="https://img.shields.io/badge/SOURCE_CODE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
   
 </p>
 
@@ -104,7 +104,7 @@
       <p style="color: #22D3EE; font-size: 12px;">Python • Django • OpenCV • SQLite • REST API</p>
       <p style="color: #FFFFFF;">AI-powered attendance system with face recognition, authentication, REST APIs and an admin dashboard.</p>
       <p>
-        <a href="https://face-detection-attendance-woad.vercel.app/home/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://face-detection-attendance-woad.vercel.app/home/"><img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=black"/></a>
         <a href="https://github.com/Milan07xt/SEM-06"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
     </td>
@@ -115,8 +115,8 @@
       <p style="color: #22D3EE; font-size: 12px;">Python • Django • SQLite</p>
       <p style="color: #FFFFFF;">Management system for members, memberships, payments, authentication and database operations.</p>
       <p>
-        <a href="https://django-gym-management-system-websit-one.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://django-gym-management-system-websit-one.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+        <a href="https://github.com/Milan07xt/Django-Gym-Management-System-Website"><img src="https://img.shields.io/badge/SOURCE_CODE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
     </td>
   </tr>
@@ -126,8 +126,8 @@
       <p style="color: #22D3EE; font-size: 12px;">HTML • CSS • JavaScript</p>
       <p style="color: #FFFFFF;">Responsive hotel website with registration and booking functionality.</p>
       <p>
-        <a href="https://hotel-website-project-kappa.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/Milan07xt/Hotel-Website-Project"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://hotel-website-project-kappa.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+        <a href="https://github.com/Milan07xt/Hotel-Website-Project"><img src="https://img.shields.io/badge/SOURCE_CODE-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
     </td>
   </tr>
