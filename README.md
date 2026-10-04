@@ -181,6 +181,4 @@
     <a href="https://milan-portfolio-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=22D3EE&color=8B5CF6"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Download_Resume-050505?style=for-the-badge&logo=read-the-docs&logoColor=22D3EE&color=8B5CF6"/></a>
   </p>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Milan07xt&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
