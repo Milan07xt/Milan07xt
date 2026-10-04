@@ -100,6 +100,6 @@
 
 <br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Milan07xt&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://profile-counter.glitch.me/Milan07xt/bg_0D1117.svg" alt="Profile Views"/>
   <p><b>Always learning, always building.</b> 💜</p>
 </div>
