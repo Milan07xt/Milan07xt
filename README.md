@@ -97,7 +97,7 @@
 
 <h2 align="center" style="color: #22D3EE;">🚀 FEATURED PROJECTS</h2>
 
-<table width="100%" style="border: none;">
+<table width="100%" style="border: none;" align="center">
   <tr>
     <td width="100%" style="border: 1px solid #8B5CF6; padding: 20px; background: #080B14; border-radius: 12px; margin-bottom: 20px; display: block;">
       <h3 style="color: #FFFFFF;">FACE RECOGNITION ATTENDANCE SYSTEM</h3>
