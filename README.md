@@ -12,7 +12,7 @@
   <a href="https://milan-portfolio-website.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=050505&color=8B5CF6"/></a>
   <a href="https://www.linkedin.com/in/milan-rathod07"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=050505&color=8B5CF6"/></a>
   <a href="https://github.com/Milan07xt"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=050505&color=8B5CF6"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/RESUME-050505?style=for-the-badge&logo=read-the-docs&logoColor=22D3EE&labelColor=050505&color=8B5CF6"/></a>
+  
 </p>
 
 </div>
