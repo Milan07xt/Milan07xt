@@ -63,7 +63,6 @@
       <h4 style="color: #A855F7;">BACKEND</h4>
       <img src="https://img.shields.io/badge/Django_REST_Framework-050505?style=for-the-badge&logo=django&logoColor=white&color=092E20" />
       <img src="https://img.shields.io/badge/REST_APIs-050505?style=for-the-badge&logo=fastapi&logoColor=white&color=009688" />
-      <img src="https://img.shields.io/badge/Authentication-050505?style=for-the-badge&logo=auth0&logoColor=white&color=EB5424" />
     </td>
   </tr>
   <tr>
