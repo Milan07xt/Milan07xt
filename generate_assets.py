@@ -1,20 +1,8 @@
 import os
-import urllib.request
-import base64
-
-# Fetch GitHub Avatar and convert to Base64
-try:
-    req = urllib.request.Request("https://github.com/Milan07xt.png?size=200", headers={'User-Agent': 'Mozilla/5.0'})
-    with urllib.request.urlopen(req) as response:
-        avatar_data = response.read()
-        avatar_b64 = "data:image/png;base64," + base64.b64encode(avatar_data).decode('utf-8')
-except Exception as e:
-    print("Error fetching avatar:", e)
-    avatar_b64 = "" # fallback if fetch fails
 
 os.makedirs('assets', exist_ok=True)
 
-id_card_svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
+id_card_svg = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#080B14" />
