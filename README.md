@@ -162,8 +162,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Milan07xt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=A855F7&icon_color=22D3EE&text_color=FFFFFF" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milan07xt&theme=tokyonight&hide_border=true&background=080B14&ring=8B5CF6&fire=22D3EE&currStreakLabel=A855F7" width="48%" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/Milan07xt/Milan07xt/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <br/>
